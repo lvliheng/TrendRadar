@@ -16,23 +16,23 @@ NVIDIA
 AMD
 
 谷歌
-google
-gemini
-deepmind
+Google
+Gemini
+DeepMind
 
-chatgpt
-openai
-sora
+ChatGPT
+OpenAI
+Sora
 
-claude
+Claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+iPhone
+iPad
+Mac
+iOS
 
-ai
+AI
 !gai
 人工智能
 
