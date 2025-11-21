@@ -1,17 +1,28 @@
-开发者
-Android
+编程语言
+Java
 Kotlin
 Python
 
-特斯拉
-马斯克
+开源项目
+
+硬件
+DIY
+
+Android
+Pixel
+
+App
+微信
+抖音
+Bilibili
+淘宝
+京东
 
 微软
 Microsoft
 
 英伟达
 NVIDIA
-黄仁勋
 
 AMD
 
@@ -39,13 +50,6 @@ AI
 自动驾驶
 
 机器人
-
-国产
-中国
-
-美国
-日本
-韩国
 
 科技
 
